@@ -50,6 +50,9 @@ I'm a passionate developer focused on building full-stack web applications and e
 - **[Freelance Website](https://coderr.ibrahima-sourabie.com)** - A Freelance Website using JavaScript and Django.
 - **[Polloloco](https://polloloco.ibrahima-sourabie.com)** - A Jump and run game based on javascript object oriented programming.
 
+### GitHub Statistics
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LgendSourabie&show_icons=true&theme=dark&locale=en)  <img width="40" />  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=LgendSourabie&show_icons=true&theme=dark&locale=en&layout=compact)
+
 ## 📫 Contact Me
 - Portfolio: https://ibrahima-sourabie.com
 - LinkedIn: https://www.linkedin.com/in/ibrahima-sourabie-56260a288
