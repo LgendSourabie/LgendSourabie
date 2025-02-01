@@ -1,4 +1,4 @@
-![GitHub Snake animation](https://raw.githubusercontent.com/LgendSourabie/snk/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake animation](https://raw.githubusercontent.com/your-username/your-repo/output/github-contribution-grid-snake.svg)
 
 # 👋 Hi, I'm Ibrahima!
 
