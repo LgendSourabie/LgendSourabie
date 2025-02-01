@@ -1,5 +1,3 @@
-![GitHub Snake animation](https://raw.githubusercontent.com/your-username/your-repo/output/github-contribution-grid-snake.svg)
-
 # 👋 Hi, I'm Ibrahima!
 
 I'm a passionate developer focused on building full-stack web applications and exploring machine learning. 🚀
