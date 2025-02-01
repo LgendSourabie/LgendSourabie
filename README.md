@@ -1,3 +1,5 @@
+![GitHub Snake animation](https://raw.githubusercontent.com/LgendSourabie/snk/output/github-contribution-grid-snake-dark.svg)
+
 # 👋 Hi, I'm Ibrahima!
 
 I'm a passionate developer focused on building full-stack web applications and exploring machine learning. 🚀
