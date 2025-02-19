@@ -57,4 +57,6 @@ I'm a passionate developer focused on building full-stack web applications and e
 - Portfolio: https://ibrahima-sourabie.com
 - LinkedIn: https://www.linkedin.com/in/ibrahima-sourabie-56260a288
 - Email: contact@ibrahima-sourabie.com
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=myusername&show_icons=true&theme=dark&locale=en&layout=compact&count_private=true)
 
